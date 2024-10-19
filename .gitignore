@@ -1,0 +1,29 @@
+# VS Code settings folder
+.vscode/
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Frontend build files (if applicable)
+build/
+dist/
+
+# Environment variables (if applicable)
+.env
